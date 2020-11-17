@@ -9,3 +9,13 @@
 .DS_Store
 
 .vscode/*
+#安装  git - 之后 package.js边颜色
+
+#输入邮箱号git config --global user.email '1735884871@qq.com';
+#        git config --global --list 
+#        git init
+#     查看   git status  爆红的是没有提交   
+#      提交    git add --all 绿色是提交了的
+#     再次查看  git status  没有红色成功
+#      git commit -m '第一次提交'   提交注释
+#      查看临时缓存区  git log  
