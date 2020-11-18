@@ -21,8 +21,8 @@
 #      git commit -m '第一次提交'   提交注释
 #      查看临时缓存区  git log  
 #     查看远程仓库(你要发送到的网络)gie remote -v
-#   远程提交到自己的用户邮箱(网络)  git remote add orgin 你的ssh秘钥
-#   上传   git push origin master  
+#   远程提交到自己的用户邮箱(网络)  git remote add orgin 你的ssh秘钥 (orgin是你要发送的)
+#   上传   git push orgin master  上面是orgin下面也是orgin  就是上面是什么下面就填入什么 
 #   之后y
 #   yes
 #   上传成功
