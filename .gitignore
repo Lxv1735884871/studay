@@ -10,17 +10,20 @@
 
 .vscode/*
 #安装  git - 之后 package.js边颜色
-
+#      npm init -y 
+#      git config --global user.name=你要创建的名称 
 #输入邮箱号git config --global user.email '1735884871@qq.com';
-#        git config --global --list 
-#        git init
+#   查看是否有名称和邮箱号      git config --global --list 
+#   查看储存文件夹             git init
 #     查看   git status  爆红的是没有提交   
 #      提交    git add --all 绿色是提交了的
 #     再次查看  git status  没有红色成功
 #      git commit -m '第一次提交'   提交注释
 #      查看临时缓存区  git log  
+#     查看远程仓库(你要发送到的网络)gie remote -v
 #   远程提交到自己的用户邮箱(网络)  git remote add orgin 你的ssh秘钥
 #   上传   git push origin master  
 #   之后y
 #   yes
 #   上传成功
+#    git clone 秘钥  下载文件
