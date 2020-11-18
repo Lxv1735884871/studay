@@ -19,3 +19,8 @@
 #     再次查看  git status  没有红色成功
 #      git commit -m '第一次提交'   提交注释
 #      查看临时缓存区  git log  
+#   远程提交到自己的用户邮箱(网络)  git remote add orgin 你的ssh秘钥
+#   上传   git push origin master  
+#   之后y
+#   yes
+#   上传成功
